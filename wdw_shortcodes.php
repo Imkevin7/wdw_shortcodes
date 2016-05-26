@@ -3,10 +3,10 @@
 Plugin Name: Shortcodes Date | WDW Address
 Description: Shortcode for date - [date] with attributes [date color="red" bgcolor="black"]. Address [wdw] with attributes [wdw color="red" bgcolor="black" linkcolor="orange" linkbg="black"] 
 Version: 2016.5.25.1
-Author: Kevin Pichette
-Author URI: http://www.kevinpichette.com
+Author: Well Dressed Walrus
+Author URI: http://www.welldressedwalrus.com
 License: GPL
-Copyright: Kevin Pichette
+Copyright: Well Dressed Walrus
 */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
