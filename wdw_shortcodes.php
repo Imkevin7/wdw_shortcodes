@@ -8,6 +8,8 @@ Author URI: http://www.kevinpichette.com
 License: GPL
 Copyright: Kevin Pichette
 */
+defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
+
 
 add_shortcode('date','date_code');
 
