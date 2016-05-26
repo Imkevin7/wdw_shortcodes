@@ -1,6 +1,5 @@
 # wdw shortcodes
 
-## Shortcodes for work
 
 ### Date
 [date] - outputs 2016 (current year)
